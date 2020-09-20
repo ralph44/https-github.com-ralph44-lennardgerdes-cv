@@ -133,7 +133,7 @@ module.exports = {
   siteUrl: 'https://ralph44.github.io/lennardgerdes-cv',
   pathPrefix: '/lennardgerdes-cv', // Note: it must *not* have a trailing slash.
   siteCover: '/images/cover.jpeg',
-  googleAnalyticsId: 'UA-000000000-1',
+  googleAnalyticsId: 'UA-171142318-3',
   background_color: '#ffffff',
   theme_color: '#94E8B4',
   fontColor: "#000000cc",
