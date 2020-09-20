@@ -135,9 +135,9 @@ module.exports = {
   siteCover: '/images/cover.jpeg',
   googleAnalyticsId: 'UA-000000000-1',
   background_color: '#ffffff',
-  theme_color: '#25303B',
+  theme_color: '#94E8B4',
   fontColor: "#000000cc",
-  enableDarkmode: true, // If true, enables dark mode switch
+  enableDarkmode: false, // If true, enables dark mode switch
   display: 'minimal-ui',
   icon: 'src/assets/gatsby-icon.png',
   headerLinks: [
