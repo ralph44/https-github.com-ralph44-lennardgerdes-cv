@@ -53,6 +53,9 @@ const Home = ({ className, location }) => {
                 src={withPrefix(siteConfig.authorAvatar)}
                 alt='user avatar'
               />
+              <h1>Lennard Werner Gerdes</h1>
+              <p>Appellandstrasse 6, 26419 Schortens</p>
+              {/* <h1>Lennard Gerdes</h1> */}
               <div className="social">
                 {siteConfig.social.github && <a className="social-link github" href={siteConfig.social.github}>
                   <FaGithub className="social-icon" size="32" />
