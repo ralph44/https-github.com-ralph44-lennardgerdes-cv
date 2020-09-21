@@ -38,7 +38,7 @@ module.exports = {
   jobs: [
     /* more jobs here */
     {
-      company: "CompanyMind GmbH & Co. KG",
+      company: "CompanyMind",
       begin: {
         month: 'sep',
         year: '2019'
