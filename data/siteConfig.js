@@ -7,7 +7,7 @@ module.exports = {
   githubUsername: 'ralph44',
   authorAvatar: '/images/Lennard_Gerdes.JPG',
   authorDescription: `Lebenslanger Problemlöser und Autodidakt. Wissbegierig besonders im Bereich Künstliche Intelligenz und Maschinelles Lernen. 
-  Passionierter Programmierer mit der besonderen Eigenschaft Muster in Daten und Prozessen zu erkennen. Das Thema Automatisierung, sei es im Haus oder im Beruf, steht besonders im Fokus. `,
+  Passionierter Programmierer mit der besonderen Eigenschaft Muster in Daten und Prozessen zu erkennen. Das Thema Automatisierung, sei es im Beruf oder im Haus, steht besonders im Fokus.`,
   skills: [
     {
       name: 'Python',
@@ -45,7 +45,7 @@ module.exports = {
       },
       duration: "Aktueller Job",
       occupation: "Data Scientist",
-      description: "Geschäftsprozesse mit maschinellen Lernen unterstützen. "
+      description: "Geschäftsprozesse mit maschinellen Lernen optimieren und neu überdenken."
   
     },  {
       company: "",
@@ -54,8 +54,8 @@ module.exports = {
         year: '2018'
       },
       duration: "1 Monat",
-      occupation: "Jugendforscher an der Jade Hochschule, Wilhelmshaven",
-      description: "Projekt: Reinforcement Learning Framework in Unternehmensprozessen"
+      occupation: "Wissenschaftlicher Mitarbeiter an der Jade Hochschule, Wilhelmshaven",
+      description: "Untersuchung von Reinforcement Learning Frameworks für Unternehmensprozesse"
   
     }, {
       company: "Senacor, Bonn",
@@ -65,7 +65,7 @@ module.exports = {
       },
       duration: '3 Monate',
       occupation: "Praktikum Berater",
-      description: "Projekt: Testautomatisierung Banking-Frontend"
+      description: "Testautomatisierung im Banking-Frontend"
     },
   ],
   bildung: [
