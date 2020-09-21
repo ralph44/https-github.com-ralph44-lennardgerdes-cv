@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Hi! Ich bin Lennard!',
+  siteTitle: 'Hi! Ich bin Lennard.',
   siteDescription: `Create your online curriculum in just a few minutes with this starter`,
   keyWords: ['gatsbyjs', 'react', 'curriculum'],
   authorName: 'Lennard Gerdes',
@@ -64,7 +64,7 @@ module.exports = {
         year: '2018'
       },
       duration: '3 Monate',
-      occupation: "Praktikum Berater",
+      occupation: "Praktikum als Berater bei einer Unternehmensberatung",
       description: "Testautomatisierung im Banking-Frontend"
     },
   ],
@@ -93,8 +93,8 @@ module.exports = {
     }, {
       company: "Technische Universität, Braunschweig",
       begin: {
-        month: 'okt',
-        year: '2012'
+        month: 'Apr',
+        year: '2013'
       },
       duration: '2 Semester',
       occupation: "Wirtschaftsingenieurwesen Elektrotechnik",
